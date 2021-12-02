@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "testing manifest upload 1" ] },
+    "summary": { "en": [ "testing manifest upload with audiovisual item" ] },
+    "items": [
+    ]
+}
